@@ -16,9 +16,9 @@ console.log("Default value:", a, b, c, d); // Mango Banana Orange Apple
 
 // 2. Object destructuring
 const student = {
-  name: "Daniel",
-  level: "300 Level",
-  gpa: 3.8
+  name: "Charles",
+  level: "200 Level",
+  gpa: 4.59
 };
 
 // Pulling out properties into variables
@@ -36,7 +36,7 @@ console.log("Default value:", age); // 20
 
 // 3. Nested destructuring
 const person = {
-  fullName: "Mary Johnson",
+  fullName: "John Doe",
   address: {
     city: "Lagos",
     country: "Nigeria"

@@ -29,7 +29,7 @@ console.log("Using arrow function:", doubled2);
 
 // Major Difference: 'this' keyword
 const person = {
-  name: "Daniel",
+  name: "Charles",
   normalFunc: function () {
     console.log("Normal function this.name:", this.name);
   },

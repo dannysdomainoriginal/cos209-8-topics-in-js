@@ -1,9 +1,9 @@
 // Variables are be declared with var, let and const
 
 // 1. Using var (old way, function-scoped)
-var name = "David";
+var name = "Charles";
 console.log("var:", name);
-var name = "Mary"; // re-declaration is allowed
+var name = "Vee"; // re-declaration is allowed
 // REDECLARATION LED TO VAR USAGE DEPRECIATION
 console.log("var re-declared:", name);
 
@@ -23,7 +23,7 @@ console.log("const:", country);
 let isStudent = true;            // boolean
 let score = 4.5;                 // number
 let courses = ["Math", "CS"];    // array
-let student = { name: "Daniel", gpa: 3.7 }; // object
+let student = { name: "Charles", gpa: 4.59 }; // object
 let nothing = null;              // null
 let notDefined;                  // undefined
 
